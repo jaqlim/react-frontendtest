@@ -1,3 +1,7 @@
+WIREFLOW: https://lucid.app/documents/view/28585f60-5642-4f56-bbd1-97ddd474cbaa
+PNG: https://lucid.app/publicSegments/view/c3bbc872-31eb-433c-9a07-b819d81aaf30/image.png
+
+
 User Story #1: As a User, I want to create a category that can be used to organize my tasks
 
 User Story #2: As a User, I want to edit a category to update the category's details
