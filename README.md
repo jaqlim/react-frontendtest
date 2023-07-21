@@ -1,6 +1,6 @@
 # Run in dev:
 
-npm run dev
+```npm run dev```
 
 
 # React + Vite
